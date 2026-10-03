@@ -1,0 +1,11 @@
+{
+  "name": "student-management",
+  "version": "1.0.0",
+  "description": "Student Management System (Java Spring Boot)",
+  "scripts": {
+    "dev": "mvn spring-boot:run",
+    "build": "echo 'This is a Java project. Build with: mvn clean install'"
+  },
+  "author": "",
+  "license": "ISC"
+}
